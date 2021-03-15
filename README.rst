@@ -51,3 +51,4 @@ vars::
 
 Enter the URL for your Heroku app into the Website URL section of the
 Facebook app settings page, hen you can visit your app on the web.
+
